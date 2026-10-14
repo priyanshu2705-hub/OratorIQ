@@ -1,0 +1,32 @@
+{
+  "rubric_name": "OratorIQ Contrastive Delivery Rubric",
+  "version": "1.0.0",
+  "total_points": 100,
+  "categories": {
+    "pacing_fluency": {
+      "weight": 25,
+      "description": "Speech rate stability, cadence, and absence of erratic rushes or sluggishness",
+      "max_penalty_per_event": 6.0
+    },
+    "pause_management": {
+      "weight": 20,
+      "description": "Natural pause placement, absence of extended dead-air and hesitation blocks",
+      "max_penalty_per_event": 5.0
+    },
+    "vocal_energy_clarity": {
+      "weight": 20,
+      "description": "Dynamic range, vocal projection, and stability of RMS energy contours",
+      "max_penalty_per_event": 5.0
+    },
+    "pitch_expressiveness": {
+      "weight": 20,
+      "description": "Pitch variation, avoidance of monotonic delivery or erratic vocal fry/cracks",
+      "max_penalty_per_event": 5.0
+    },
+    "emphasis_consistency": {
+      "weight": 15,
+      "description": "Spectral contrast alignment with baseline rhetorical focal points",
+      "max_penalty_per_event": 4.0
+    }
+  }
+}

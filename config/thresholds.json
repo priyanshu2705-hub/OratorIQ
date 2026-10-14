@@ -1,0 +1,15 @@
+{
+  "sample_rate": 22050,
+  "frame_length": 2048,
+  "hop_length": 512,
+  "silence_db_threshold": -36.0,
+  "min_pause_duration_sec": 0.45,
+  "excessive_pause_sec": 1.75,
+  "rate_fast_ratio_threshold": 1.35,
+  "rate_slow_ratio_threshold": 0.70,
+  "pitch_monotone_std_semitones": 1.20,
+  "pitch_erratic_std_semitones": 4.50,
+  "energy_drop_ratio_threshold": 0.40,
+  "energy_surge_ratio_threshold": 2.20,
+  "dtw_window_ratio": 0.20
+}

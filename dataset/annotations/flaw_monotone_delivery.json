@@ -1,0 +1,9 @@
+[
+  {
+    "start_time": 0.5,
+    "end_time": 7.5,
+    "category": "pitch_expressiveness",
+    "flaw_name": "Monotonous Pitch Contour (Flat Delivery)",
+    "severity": "Severe"
+  }
+]

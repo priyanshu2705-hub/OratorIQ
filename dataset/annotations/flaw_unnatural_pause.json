@@ -1,0 +1,9 @@
+[
+  {
+    "start_time": 3.0,
+    "end_time": 5.2,
+    "category": "pause_management",
+    "flaw_name": "Unnatural Silence / Extended Dead-Air",
+    "severity": "Severe"
+  }
+]

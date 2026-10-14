@@ -1,0 +1,5 @@
+sample_id,baseline_path,participant_path,flaw_category,severity,gt_start_time,gt_end_time
+flaw_01_rushed,dataset/audio/baseline_speech.wav,dataset/audio/flaw_rushed_delivery.wav,pacing_fluency,Severe,2.0,3.5
+flaw_02_pause,dataset/audio/baseline_speech.wav,dataset/audio/flaw_unnatural_pause.wav,pause_management,Severe,3.0,5.2
+flaw_03_monotone,dataset/audio/baseline_speech.wav,dataset/audio/flaw_monotone_delivery.wav,pitch_expressiveness,Severe,0.5,7.5
+flaw_04_energy_drop,dataset/audio/baseline_speech.wav,dataset/audio/flaw_energy_drop.wav,vocal_energy_clarity,Severe,4.0,7.0
